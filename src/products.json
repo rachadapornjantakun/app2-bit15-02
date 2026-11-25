@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name" : "NUMJU",
+        "price" : 59,
+        "image" : "https://inwfile.com/s-cj/27t5v7.jpg"
+    },
+
+    {
+        "id":2,
+        "name" : "BEMING",
+        "price" : 599,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6WpTwGxtZvpih15flxsLIQeiRMT6Rxc2DA46iOVj7flNTalFBNsRNGQ&s=10"
+
+    },
+    {
+        "id" :3,
+        "name" : "VITC",
+        "price" :59,
+        "image" :"https://img.lazcdn.com/g/p/6176e0d4b8bf9b27d39123bca0f7b2ef.jpg_720x720q80.jpg"
+    },
+    {
+        "id" :4,
+        "name" :"GLAD2GLOW",
+        "price" :359,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUh8YP0HdtVaTNzwSVSI00F36T_PDkaPnq5seAiK8BRw&s=10"
+    },
+    {
+        "id" :5,
+        "name" :"CLEAR NOSE",
+        "price" :49,
+        "image" : "https://s2.konvy.com/static/team/2025/0813/2025081318162034236.jpg"
+    },
+    {
+        "id": 6,
+        "name" : "MIZUMI",
+        "price" :199,
+        "image" :"https://staticg.homepro.co.th/seller/1348/product/resize_447x447_cover_img-1735036395506-B0060620.png"
+    },
+    {
+        "id" : 7,
+        "name" : "LOVE POTION",
+        "price" : 349,
+        "image" :"https://medias.watsons.co.th/publishing/WTCTH-321366-side-zoom.jpg?version=1759180821"
+
+
+
+    },
+    {
+        "id" :8,
+        "name" :"CARISTA GOAT MILK KERATIN",
+        "price" : 69,
+        "image" : "https://down-th.img.susercontent.com/file/sg-11134201-7ra30-m558hld1pytcec"
+
+    },
+    {
+        "id" : 9,
+        "name" :"CHAR MISS",
+        "price" : 299,
+        "image" : "https://medias.watsons.co.th/publishing/WTCTH-321317-side-zoom.jpg?version=1761771640"
+
+    },
+    {
+        "id": 10,
+        "name" :"ODBO",
+        "price" : 199,
+        "image" : "https://s2.konvy.com/static/team/2024/1104/2024110411014942554.jpg"
+
+    }
+
+    
+]
