@@ -18,6 +18,8 @@ export default function App() {
             name={item.name}
             image={item.image}
             price={item.price}
+            category={item.category}
+            stock={item.stock}
           />
         )}
       />
@@ -41,4 +43,5 @@ const myStyle = StyleSheet.create({
   listContent: {
     paddingBottom: 24, // 
   },
+
 });
